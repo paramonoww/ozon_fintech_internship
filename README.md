@@ -1,2 +1,1 @@
-# ozon_fintech_internship
-tasks for fintech data analyst intern
+# Ozon FinTech Data Analyst Internship
