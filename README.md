@@ -10,7 +10,7 @@ Just 2 SQL tasks.
 
 ### 4. Statistics & ML
 
-I uploaded only task 1, 3 & a little part from task 4. 
+I uploaded only task 1, task 3 & a little part from task 4. 
 
 
 
